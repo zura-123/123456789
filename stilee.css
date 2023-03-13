@@ -1,0 +1,42 @@
+.text-1{
+    Width:578px;
+Height:158px;
+margin-left: 450px;
+font-size: 16px;
+}
+.text-2{
+    Width:578px;
+Height:167px;
+font-size: 16px;
+}
+.container-2{
+    margin-left: 20px;
+}
+.text-3{
+    Width:578px;
+    Height:158px;
+    font-size: 16px;
+}
+.container-3{
+    float: right;
+    margin-right: 20px;
+}
+.text-4{
+    Width:1355px;
+Height:314px;
+font-size: 16px;
+}
+hr{
+    margin-top: 300px;
+    border: 2px solid #DFDFDF;
+    width: 1470px;
+}
+b{
+    font-size: 20px;
+}
+.text-5{
+    margin-left: 450px;
+}
+.container-4{
+    margin: 20px;
+}
